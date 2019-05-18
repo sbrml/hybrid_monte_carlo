@@ -102,4 +102,8 @@ venv.bak/
 /site
 
 # mypy
+
+
+# local
+code/data
 .mypy_cache/
